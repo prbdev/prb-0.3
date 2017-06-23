@@ -1,0 +1,10 @@
+div.form-container div.buttonrow button, button {
+ color: #666;
+ cursor: hand;
+ height: 27px;
+ margin-bottom: 1px;
+}
+
+p.iepara{ /*Conditional CSS- For IE (inc IE7), create 1em spacing between menu and paragraph that follows*/
+padding-top: 1em;
+}

@@ -1,0 +1,11 @@
+/**********************************
+Main CSS file imports specifics
+***********************************/
+
+@import "reset.css";
+@import "core.css";
+@import "style.css";
+@import "topmenu.css";
+@import "cssbox.css";
+@import "forms.css";
+
